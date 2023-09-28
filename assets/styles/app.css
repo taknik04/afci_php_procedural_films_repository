@@ -1,0 +1,15 @@
+*{
+    font-family: 'poppins', 'sans-serif';
+}
+html, body{
+    height: 100%;
+}
+
+body{
+    display: grid;
+    
+}
+nav a
+{
+    font-family: 'pacifico', cursive;
+}
